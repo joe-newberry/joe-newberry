@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joe-newberry
+- 👀 I’m interested in becoming a computer programmer
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any Python projects that help me develop my skills
